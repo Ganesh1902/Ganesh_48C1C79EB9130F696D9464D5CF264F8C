@@ -24,10 +24,10 @@ def sort_students(student_list):
 
 # Example usage:
 students = [
-    Student("Sanjay", "A123", 7.8),
-    Student("Pachai", "A124", 8.9),
-    Student("Madhesh", "A125", 9.1),
-    Student("Lokesh", "A126", 9.9),
+    Student("Ganesh", "A123", 7.8),
+    Student("jai", "A124", 8.9),
+    Student("kavi", "A125", 9.1),
+    Student("vishnu", "A126", 9.9),
 ]
 
 sorted_students = sort_students(students)
